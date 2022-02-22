@@ -13,4 +13,4 @@ https://samborski55.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Cody
 
-# Run Buddy Inc.
+# Run Buddy Inc
